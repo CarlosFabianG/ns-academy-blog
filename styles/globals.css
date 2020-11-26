@@ -15,6 +15,7 @@ a {
 
 p {
   color: hsla(0, 0%, 100%, 0.88);
+  line-height: 1.6;
 }
 
 * {
@@ -48,5 +49,5 @@ p {
 }
 
 .backLink {
-  background: #ffa7c4;
+  color: #ffa7c4;
 }

@@ -3,7 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'My NS academy internship'
+const name = 'My NS internship journey'
 export const siteTitle = 'academy blog'
 
 export default function Layout({ children, home }) {
