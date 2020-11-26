@@ -4,10 +4,6 @@ date: '2020-10-05'
 description: 'kmslkclknclsknclns'
 ---
 
-# What I did learn - week 3
-
-Created: Oct 19, 2020 8:22 PM
-
 We are in week 3 of the academy program. 
 
 Overall, in this week we have dive into testing drive development. Also, we saw some material about machine learning, communication and other fancy topics. 

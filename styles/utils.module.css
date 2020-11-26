@@ -5,7 +5,7 @@
     font-weight: 800;
     letter-spacing: -0.05rem;
     margin: 1rem 0;
-    color: hsla(0, 0%, 100%, 0.88);
+    color: white;
   }
   
   .headingXl {
@@ -14,12 +14,14 @@
     font-weight: 800;
     letter-spacing: -0.05rem;
     margin: 1rem 0;
+    color: white;
   }
   
   .headingLg {
     font-size: 1.5rem;
     line-height: 1.4;
     margin: 1rem 0;
+    color:#ffa7c4;
   }
   
   .headingMd {
@@ -48,9 +50,13 @@
   
   .listItem {
     margin: 0 0 1.25rem;
-    color:#ffa7c4
+    color:#ffa7c4;
   }
   
   .lightText {
     color: hsla(0, 0%, 100%, 0.88);
+  }
+
+  .lightText p {
+    font-size: 14px;
   }

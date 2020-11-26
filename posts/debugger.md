@@ -4,8 +4,6 @@ date: '2020-11-23'
 description: 'kmslkclknclsknclns'
 ---
 
-# Professional debugger
-
 We are in week 8 of the Nearsoft Academy program. This is the last week of the second phase, which is about building something from scratch in self-managed teams. Thus, here are my insights and takeaways of the week.
 
 **Teamwork**
