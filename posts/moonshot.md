@@ -1,6 +1,6 @@
 ---
-title: 'What does it mean to be a great professional?'
-date: '2020-10-10'
+title: 'Moonshot thinking'
+date: '2020-10-05'
 description: 'kmslkclknclsknclns'
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 'What does it mean to be a great professional?'
-date: '2020-10-10'
+title: 'It is all about science'
+date: '2020-10-26'
 description: 'kmslkclknclsknclns'
 ---
 
