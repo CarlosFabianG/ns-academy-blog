@@ -51,10 +51,12 @@
   .listItem {
     margin: 0 0 1.25rem;
     color:#ffa7c4;
+    font-size: 28px;
   }
   
   .lightText {
     color: hsla(0, 0%, 100%, 0.88);
+    font-size: 16px;
   }
 
   .lightText p {
