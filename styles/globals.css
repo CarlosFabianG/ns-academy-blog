@@ -22,6 +22,10 @@ p {
   box-sizing: border-box;
 }
 
+h3 {
+  color: white;
+}
+
 .container {
   max-width: 36rem;
   padding: 0 1rem;

@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
             <small className={utilStyles.lightText}>
               <Date dateString={date} /> • 
               <span role='img' aria-label='one coffee'>
-                  ☕ {' 2' + ' min read'}
+                  ☕ {' 4' + ' min read'}
               </span>
             </small>
           </li>
