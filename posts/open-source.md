@@ -58,15 +58,17 @@ A disadvantage of Single Page Applications is that the first rendering is slow s
 
 This concept is related to the last one. It is when the browser loads the javascript code so the component page is fully operational.
 
-- **Static site generation**
+- **Static site generation and SSR**
 
-The first time I heard about static site generation was when I knew about a framework called gatsby.js. I used it in the past to
+This is one of the pre-rendering methods that Next.js uses along with server-side rendering. In static site generation, all the Html is generated at build time and it is reused on each request. On the opposite, server-side rendering generates the Html on each request. 
+Static site generation is much faster, however, it is not recommended for pages with high dynamic data updates. So, it's great for marketing pages, blogs, e-commerce sites, documentation sites, and so on. 
+Server-side rendering is slower, but the pre-rendered page will always be up-to-date. 
 
 ### **Going deeply into React JS**
 
 When we use a framework o library for the first time we could think about it as magic. A black box that makes your development simpler. Although, the goal of a framework is to abstract the complexity in the development of an application, knowing how the abstraction works under the hood will give you a solid understanding of the technology. That will help you when solving problems, debugging, applying best practices, and so on. Moreover, you won't depend on a tool. You will be able to contribute to the existing ones.
 
-Knowing the last, this week I decided to see how the magic of react js happens under the hood. This was part of one of the assignments of this phase: research about how a specific functionality works revisiting the source code.
+Knowing the last, this week I decided to see how the magic of react js happens under the hood. This was part of one of the assignments of this phase: research about how a specific functionality works revisiting the source code. I will be sharing my research on this in the following posts. 
 
 ### **Learning is not linear**
 
