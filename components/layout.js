@@ -2,11 +2,18 @@ import Head from 'next/head'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import Prism from 'prismjs'
+import { useEffect } from 'react'
 
 const name = 'My NS internship journey'
 export const siteTitle = 'academy blog'
 
 export default function Layout({ children, home }) {
+
+  useEffect(() => {
+    Prism.highlightAll()
+  }, [])
+
   return (
     <div className={styles.container}>
       <Head>
