@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.lightText}>
         <p>Personal blog by Carlos Fabián. I explain with words and code.</p>
       </section>
-      <section className={utilStyles.headingMd}>.</section>
+      <section className={utilStyles.headingMd}>Follow me on <a href="https://twitter.com/fabian_carlos_">Twitter</a></section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         
         <ul className={utilStyles.list}>
